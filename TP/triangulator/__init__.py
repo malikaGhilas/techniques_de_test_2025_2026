@@ -1,0 +1,1 @@
+"""Package du micro-service de triangulation."""
