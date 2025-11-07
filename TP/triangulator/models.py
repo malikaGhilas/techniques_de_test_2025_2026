@@ -1,0 +1,1 @@
+"""Modèles de données pour les points et les triangles."""
