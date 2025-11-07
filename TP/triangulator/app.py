@@ -1,0 +1,1 @@
+"""Application Flask exposant l'API de triangulation."""
