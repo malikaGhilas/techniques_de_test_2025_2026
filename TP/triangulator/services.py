@@ -1,0 +1,1 @@
+"""Service métier de triangulation."""
