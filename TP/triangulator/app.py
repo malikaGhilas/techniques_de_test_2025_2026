@@ -1,1 +1,3 @@
-"""Application Flask exposant l'API de triangulation."""
+from flask import Flask
+
+app = Flask(__name__)
