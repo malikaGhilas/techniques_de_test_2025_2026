@@ -18,7 +18,11 @@ def test_deserialize_multiple_points():
     """Test deserialization of a PointSet with multiple points."""
     from triangulator.utils import deserialize_pointset
     # 2 points : (0.0, 0.0) et (-1.0, 1.5)
-    data = b"\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\xbf\x80\x00\x00\x3f\xc0\x00\x00"
+    data = (
+        b"\x00\x00\x00\x02"      # 2 points
+        b"\x00\x00\x00\x00\x00\x00\x00\x00"    # (0.0, 0.0)
+        b"\xbf\x80\x00\x00\x3f\xc0\x00\x00"    # (-1.0, 1.5)
+    )
     result = deserialize_pointset(data)
     expected = [(0.0, 0.0), (-1.0, 1.5)]
     assert result == expected
