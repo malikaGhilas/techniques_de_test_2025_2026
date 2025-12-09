@@ -27,4 +27,4 @@ C’est un bon rappel : un test pertinent vaut mieux qu’un test « parfait » 
 
 Même si j’étais en retard à la séance 5, ce TP m’a montré la puissance d’une **démarche test-first bien appliquée**. Mes tests m’ont guidée, rassurée, et ont rendu le debug beaucoup plus rapide. À la fin, avoir 89 % de couverture, une doc générée, et un `Makefile` qui fonctionne, c’est une vraie fierté.
 
-Je retiens surtout que **les tests ne sont pas une corvée** : ce sont la base d’un code fiable. Et même sous Windows, avec des outils capricieux, on arrive au bout avec un peu de persévérance !
+Je retiens surtout que **les tests ne sont pas une corvée** : ce sont la base d’un code fiable. Et même sous Windows, avec des outils capricieux, on arrive au bout avec un peu de persévérance ! 
