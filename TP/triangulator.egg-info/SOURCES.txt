@@ -2,7 +2,6 @@ README.md
 pyproject.toml
 TP/triangulator/__init__.py
 TP/triangulator/app.py
-TP/triangulator/models.py
 TP/triangulator/services.py
 TP/triangulator/utils.py
 TP/triangulator.egg-info/PKG-INFO
