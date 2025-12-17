@@ -40,4 +40,4 @@ Même si j'étais en retard à la séance 5, ce TP m'a montré l'intérêt d'une
 
 Je retiens surtout que **les tests ne sont pas une corvée** : c'est ce qui fait qu'on peut refactoriser sans avoir peur de tout casser. Mon plan initial était utile pour structurer ma réflexion, mais c'est vraiment en codant que j'ai découvert la majorité des cas à tester. C'est ça aussi le test-first : on itère, on découvre, on améliore.
 
-Et même sous Windows avec des outils relous, on y arrive en s'adaptant. Le truc le plus important que j'ai compris : écrire les tests avant force à vraiment réfléchir à ce que doit faire le code. Au début c'est bizarre, mais après ça devient naturel. 
+Et même sous Windows avec des outils relous, on y arrive en s'adaptant. Le truc le plus important que j'ai compris : écrire les tests avant force à vraiment réfléchir à ce que doit faire le code. Au début c'est bizarre, mais après ça devient naturel.
